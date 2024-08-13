@@ -1,1 +1,1 @@
-# Leetcode_Python_2024
+# Leetcode_Python_solution
